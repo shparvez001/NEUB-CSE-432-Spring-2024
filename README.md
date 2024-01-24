@@ -2,7 +2,7 @@
 CSE 432 class notebook
 
 ## List of Labs
-1. [Lab 1](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/Lab%0201.md).
+1. [Lab 1](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/Lab%201.md).
 	1. Introduction to MATLAB syntax.
 
 
