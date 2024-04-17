@@ -26,6 +26,8 @@ CSE 432 class notebook
     3. Convolution using numpy convolution function
     4. Convolution
     5. Cross Correlation
+5. [Lab 5](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-05.ipynb).
+    1. Frequency Analysis of Discrete-Time Periodic Signals (Fourier Series)    
 
 
  ## List of Home Tasks
