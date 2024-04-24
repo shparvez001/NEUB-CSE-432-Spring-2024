@@ -38,7 +38,6 @@ CSE 432 class notebook
     7. Finding factors and solving polynomial using sympy
 
 
-
  ## List of Home Tasks
  1. [Lab 3](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-03.ipynb).
     1. Create a plot showing the four condition of exponential signal. Label each subplot clearly to show the value of a. Use values of a as below
