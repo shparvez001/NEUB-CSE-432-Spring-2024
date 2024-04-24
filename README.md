@@ -28,6 +28,15 @@ CSE 432 class notebook
     5. Cross Correlation
 5. [Lab 5](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-05.ipynb).
     1. Frequency Analysis of Discrete-Time Periodic Signals (Fourier Series)    
+6. [Lab 6](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-06.ipynb).
+    1. Symbolic Algebra in Python
+    2. Pretty printing using sympy
+    3. Solving simple equations using sympy
+    4. Computing differentiation using sympy
+    5. Computing integration using sympy
+    6. Solving simultaneous equation using sympy
+    7. Finding factors and solving polynomial using sympy
+
 
 
  ## List of Home Tasks
@@ -41,3 +50,5 @@ CSE 432 class notebook
 2. [Lab 4](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-04.ipynb).
     1. Autocorrelation of a signal
     2. Implement a Zero-order HOLD Digital-to-Analog Converter in python
+3. [Lab 6](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-06.ipynb).
+    1. Solve differential equation using sympy 
