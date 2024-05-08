@@ -36,7 +36,8 @@ CSE 432 class notebook
     5. Computing integration using sympy
     6. Solving simultaneous equation using sympy
     7. Finding factors and solving polynomial using sympy
-
+7. [Lab 7](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-07.ipynb).
+    1. Discrete Fourier Transform (DFT)
 
  ## List of Home Tasks
  1. [Lab 3](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-03.ipynb).
@@ -51,3 +52,29 @@ CSE 432 class notebook
     2. Implement a Zero-order HOLD Digital-to-Analog Converter in python
 3. [Lab 6](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-06.ipynb).
     1. Solve differential equation using sympy 
+4. [Lab 7](https://github.com/shparvez001/NEUB-CSE-432-Spring-2024/tree/main/CSE-432-2401-Lab-07.ipynb).
+    1. Computation of DFT by Divide-and-Conquer approach
+    2. Computation of DFT by FFT (Fast Fourier Transform) Algorithm
+    3. Computation of Convolution by DFT and IDFT
+    4. Implementation of N-point moving average filter
+    5. Frequency analysis of a signal using different window filters
+        1. Hanning
+        2. Hamming
+
+## Lab Final details
+Date: 24th June 2024
+### Mark distribution
+|Assessment|Mark|
+|------|-----|
+|Attendance|10|
+|Lab Performance|20|
+|Lab Final|40|
+|Project|30|
+|**Total**|**100**|
+
+## Project Submission guideline
+Project must be submitted as part of the final assessment of the course CSE-432 (Digital Signal Processing Lab). All students must adhere to the following rules.
+1. Project can be submitted as an individual project or a group project. In case of group project, the number of members cannot exceed 2. 
+2. For group projects, the works of each group members must be distinguishable and each members will be graded according to their work.
+3. The projects must be a hardware project and must implement any concepts introduced or discussed in the course. Any irrelevant project will not be graded. In case of confusion regarding relevance, students are advised to discuss project idea with me.
+4. Project must be submitted on the day of lab final exam. No extension will be allowed.
